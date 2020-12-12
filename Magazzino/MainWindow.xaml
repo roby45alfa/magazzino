@@ -12,7 +12,7 @@
             <ColumnDefinition Width="167*"/>
             <ColumnDefinition Width="625*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="button" Grid.ColumnSpan="2" Content="Button" Click="button_Click" Margin="17,25,0,0" Height="27" VerticalAlignment="Top" HorizontalAlignment="Left" Width="106"/>
+        <Button x:Name="Magazzino" Grid.ColumnSpan="2" Content="Magazzino" Click="button_Click" Margin="17,25,0,0" Height="27" VerticalAlignment="Top" HorizontalAlignment="Left" Width="106"/>
         <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="86.873,25,0,0" Height="27" Grid.Column="2"/>
         <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Width="75" Margin="301.873,25,0,0" Height="20" VerticalAlignment="Top" Grid.Column="2"/>
 
